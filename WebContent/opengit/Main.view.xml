@@ -1,0 +1,8 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="opengit.Main" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="This page is shared via Github.">
+		<content>
+			<Button text="Naar homepage"/>
+		</content>
+	</Page>
+</core:View>
